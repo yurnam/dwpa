@@ -162,7 +162,7 @@ p {margin: 0 0 15px 0;line-height: 1.7;}
     #maincontainer {width: 95%;padding: 0 10px;margin: 15px auto;}
     #contentcolumn {padding: 20px 15px;}
     ul#navtop {padding: 10px 15px;overflow-x: auto;}
-    #navtop li {display: block;margin: 5px 0;margin-right: 0;}
+    #navtop li {display: block;margin: 5px 0;}
     #navtop a {display: block;padding: 10px 15px;}
     #leftcolumn, #rightcolumn {float: none;width: 100%;margin-bottom: 20px;}
     .form .input, .form textarea {width: 100%;max-width: 100%;}
