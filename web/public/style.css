@@ -134,6 +134,9 @@ dl.progress {padding: 2px; border: none; height: 24px; width: 300px;background-c
 /* BSSID */
 .bssid {font-family: 'Monaco', 'Menlo', 'Consolas', monospace; font-size: 13px; cursor: pointer;color: var(--color-primary);font-weight: 500;}
 
+/* Generic table cell padding for tables without specific classes */
+td {padding: 7px;}
+
 /* table td */
 table.nets {border-collapse: collapse;width: 100%;background: var(--color-white);border-radius: 8px;overflow: hidden;box-shadow: var(--shadow-md);}
 table.nets th {background: var(--gradient-primary);color: var(--color-white);padding: 15px 12px;text-align: left;font-weight: 600;font-size: 14px;}
